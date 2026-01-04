@@ -1,5 +1,8 @@
 [Prodessional ML Certificate Coursera.pdf](https://github.com/user-attachments/files/24421466/Prodessional.ML.Certificate.Coursera.pdf)
-<img width="1050" height="820" alt="image" src="https://github.com/user-attachments/assets/c49f8ca5-ae06-488b-ad77-2da553d2b2f3" />
+<img width="1050" height="820" alt="image" src="https://github.com/user-attachments/assets/c49f8ca5-ae06-488b-ad77-2da553d2b2f3" /> 
+
+
+
 
 # 🎓 Machine Learning Specialization – Andrew Ng (DeepLearning.AI)
 
